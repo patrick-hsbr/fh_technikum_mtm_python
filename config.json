@@ -1,0 +1,6 @@
+{
+    "binance": {
+        "api_key": "get your keys here -> https://testnet.binance.vision/",
+        "api_secret": "get your keys here -> https://testnet.binance.vision/"
+    }
+}
